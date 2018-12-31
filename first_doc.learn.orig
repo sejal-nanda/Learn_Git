@@ -1,0 +1,8 @@
+This is the first line.
+This is the test line.
+<<<<<<< HEAD
+This is the ninth line.
+
+=======
+This is the eighth line.
+>>>>>>> 943caafe97260d59416ac2fe869886b5ca708d38
